@@ -1,7 +1,10 @@
 # system-monitoring
 
-Fun system programming projects with languages https://nim-lang.org and super cool libraries https://www.raylib.com
+<p align="center">
+<a href="https://andiahmads.github.io/system-monitoring/"><img src="./assets/sysmon.png"></a>
+</p>
 
+Fun system programming projects with languages <https://nim-lang.org> and super cool libraries <https://www.raylib.com>
 
 ## features
 
@@ -13,22 +16,26 @@ Fun system programming projects with languages https://nim-lang.org and super co
 
 🎨 Modern UI with professional color scheme
 
-
 ## Getting Started
+
 Run:
+
 ```console
 brew install raylib
 ```
 
 ## on linux
+
 Read:
+
 ```
 https://github.com/raysan5/raylib/discussions/2673
 ```
 
-
 ## Compile
+
 Run:
+
 ```console
 num c -r sysmon.nim
 ```
