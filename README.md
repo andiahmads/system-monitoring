@@ -16,7 +16,13 @@ Fun system programming projects with languages https://nim-lang.org and super co
 
 ## Getting Started
 Run:
-
 ```console
 brew install raylib
+```
+
+
+## Compile
+Run:
+```
+num c -r sysmon.nim
 ```
