@@ -20,9 +20,15 @@ Run:
 brew install raylib
 ```
 
+## on linux
+Read:
+```
+https://github.com/raysan5/raylib/discussions/2673
+```
+
 
 ## Compile
 Run:
-```
+```console
 num c -r sysmon.nim
 ```
